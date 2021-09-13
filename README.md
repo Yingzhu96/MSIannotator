@@ -1,2 +1,2 @@
 # MSIannotator
-Metabolites Annotation for Mass Spectrometry Imaging
+Metabolites Annotation Tool for Mass Spectrometry Imaging
