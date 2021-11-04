@@ -11,4 +11,4 @@ Metabolites Annotation Tool for Mass Spectrometry Imaging
 - MSIdata.xlsx - example input file containing the MSI data (MSI data of liver tissue in positive mode). 
 - Database.xlsx - example input file containing the metabolite information of our established database (metabolite database of liver in positive mode). 
 - MSIannotator.m - script to annotate the features in MSIdata with the Database.
-- Organ specific metabolite database.xlsx - our established database, consisting of 1298 metabolites in positive mode (Sheet1), 515 metabolites in negative mode (Sheet2), divided by brain (Sheet3),liver (Sheet4),kidney (Sheet5), heart (Sheet6), spleen (Sheet7), lung (Sheet8), muscle (Sheet9) , pancreas (Sheet10)and serum (Sheet11) metabolite database.
+- Organ specific metabolite database.xlsx - our established database, consisting of 1298 metabolites in positive mode (Sheet1), 515 metabolites in negative mode (Sheet2), divided by brain (Sheet3), liver (Sheet4), kidney (Sheet5), heart (Sheet6), spleen (Sheet7), lung (Sheet8), muscle (Sheet9), pancreas (Sheet10) and serum (Sheet11) metabolite database.
