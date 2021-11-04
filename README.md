@@ -5,7 +5,7 @@ Metabolites Annotation Tool for Mass Spectrometry Imaging
 ## Input files
 - MSIdata - a preprocessed MSI dataset, which should contain measured m/z in the first column.
 - Database - a metabolite database, which includes metabolites name in the first column and theoretical m/z in the specified adduct forms columns.
-## Output files
+## Output file
 - Annotator - an annotated metabolite list, measured m/z in the first column, intermediate and ultimate annotated metabolites in the following columns.
 ## Examples and usage
 - MSIdata.xlsx - example input file containing the MSI data (MSI data of liver tissue in positive mode). 
